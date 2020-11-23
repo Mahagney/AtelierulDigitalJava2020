@@ -15,7 +15,6 @@ public class Challenge1 {
                 System.out.print("buzz");
             }
             System.out.print(", ");
-
         }
     }
 }
