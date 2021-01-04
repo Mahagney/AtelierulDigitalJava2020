@@ -5,4 +5,5 @@ public class EUR extends Currency {
     public EUR(float value){
         super(value,"EUR");
     }
+
 }

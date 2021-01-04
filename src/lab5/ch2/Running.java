@@ -14,7 +14,6 @@ public class Running implements Shoe {
         return size;
     }
 
-    @Override
     public String getColor() {
         return color;
     }
